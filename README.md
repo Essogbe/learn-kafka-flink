@@ -33,6 +33,7 @@ Chaque fois que notre client Web publie un événement « clic » sur notre suje
 
 
 ![alt text](https://github.com/Essogbe/learn-kafka-flink/blob/main/kafka-partition.png?raw=true)
+![alt_text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTun0EB8a4MYo8nUcsgWU2IBfSxjXPmODj44lGKzx9Pcw&s)
 📊
 
 ###### Replications :
