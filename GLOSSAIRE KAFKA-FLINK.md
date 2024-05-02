@@ -31,7 +31,8 @@ Enfin, nous devons parler de la façon dont les événements sont ordonnés dans
 Chaque fois que notre client Web publie un événement « clic » sur notre sujet, cet événement sera ajouté à l'une de nos trois partitions. Si une clé est incluse avec la charge utile de l'événement, elle sera utilisée pour déterminer l'affectation des partitions, sinon les événements sont envoyés aux partitions de manière circulaire. Les événements sont ajoutés et stockés dans les partitions de manière séquentielle, et l'ID individuel obtenu par chaque événement (par exemple, 0 pour le premier événement, 1 pour le second, et ainsi de suite) est appelé un **offset** . 🔢
 
 
-![[kafka-partition.png]] 
+
+![alt text](https://github.com/Essogbe/learn-kafka-flink/blob/main/kafka-partition.png?raw=true)
 📊
 
 ###### Replications :
