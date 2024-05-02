@@ -1,6 +1,7 @@
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTun0EB8a4MYo8nUcsgWU2IBfSxjXPmODj44lGKzx9Pcw&s" width="1300" height="700">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTun0EB8a4MYo8nUcsgWU2IBfSxjXPmODj44lGKzx9Pcw&s" width="800" height="400">
+
 ## GLOSSAIRE KAFKA FLINK
 #### Découvrons ensemble quelques termes et concepts 📚 liés aux architectures Kafka et Flink.  
 
